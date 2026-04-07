@@ -6,4 +6,4 @@ Front-end: React.js/TypeScript
 
 Back-end: Express.js/JavaScript
 
-Database: MongoDB
+Database: Locally hosted MongoDB
